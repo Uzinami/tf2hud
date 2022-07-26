@@ -3051,6 +3051,15 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		RubikBold18
+		{
+			"1"
+			{
+				"name"		"Rubik Bold"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
 		
 		RubikBold20
 		{
@@ -3061,6 +3070,16 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		RubikBold32
+		{
+			"1"
+			{
+				"name"		"Rubik Bold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+	
 	
 	}
 	//
